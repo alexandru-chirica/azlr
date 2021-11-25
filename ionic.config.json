@@ -1,0 +1,7 @@
+{
+  "name": "azlr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
